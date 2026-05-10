@@ -1,2 +1,2 @@
 # gotham
-tis is my first git repsitory
+this is my first git repsitory
